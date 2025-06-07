@@ -1,4 +1,4 @@
-# at-cxi-infra
+# aws-infra
 
 This project sets up a secure, modular AWS Landing Zone using Terraform. It includes:
 
